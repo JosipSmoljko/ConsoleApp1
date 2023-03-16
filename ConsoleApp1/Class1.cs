@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         metoda()
         {
-            Console.WriteLine("novo");
+            Console.WriteLine("novo2");
         }
     }
 }
