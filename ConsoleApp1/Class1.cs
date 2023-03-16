@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         metoda()
         {
-
+            //comment
         }
     }
 }
